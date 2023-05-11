@@ -1,0 +1,39 @@
+
+    section.container {
+        max-width: 80%; 
+        margin: 0 auto;
+    }
+
+    h1 {
+        color: white;
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 5px;
+    }
+
+    .alert {
+        background-color: #ffeeba;
+        color: #856404;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    button.btn-success {
+        background-color: #28a745;
+        color: white;
+        border: #28a745;
+        padding: 5px 10px;
+        margin-right: 10px;
+        height: 40px;
+    }
+
+    button.btn-danger {
+        background-color: #dc3545;
+        color: white;
+        border: #dc3545;
+        padding: 5px 10px;
+        height: 40px;
+    }
+
+
